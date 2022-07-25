@@ -1,5 +1,7 @@
 import java.util.Scanner;
-
+   /*	@author : Batuhan Efe Alkış
+   	Patika Java101 not ortalaması hesaplama ödevi
+   */
 public class Main {
 
 	public static void main(String[] args) {
