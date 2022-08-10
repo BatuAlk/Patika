@@ -1,11 +1,6 @@
 import java.util.Scanner;
 
-/* 
- *  @author: Batuhan Efe Alkış
- * 
- * 	Patika Java101 VKİ hesabı
- * 
- */
+
 
 public class Main {
 
