@@ -1,11 +1,5 @@
 import java.util.Scanner;
 
-/* 
- *  @author: Batuhan Efe Alkış
- * 
- * 	Patika Java101 kullanıcı girişi
- * 
- */
 
 public class Main {
 	public static void main(String[] args) {
