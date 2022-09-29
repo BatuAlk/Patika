@@ -14,9 +14,9 @@ O(n^2)
 #### a.Average case: Aradığımız sayının ortada olması, 
 #### b.Worst case: Aradığımız sayının sonda olması, 
 #### c.Best case: Aradığımız sayının dizinin en başında olması.
-a) O(n)
+a) O(n^2)
 b) O(n^2)
-c) O(1)
+c) O(n)
 
 ### 4.Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer?
 Average case.
